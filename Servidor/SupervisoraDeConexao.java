@@ -39,7 +39,7 @@ public class SupervisoraDeConexao extends Thread
             "Av. Não sei o que, Não sei que Lá",
             " Oferecemos nossos servi�os de lavagem para qualquer um con o dia a dia corrido",
             17.50,
-            "13086-400",
+            "13086-200",
             9
     );
     // ----------------------------------------------------------------------------------------------
